@@ -1,0 +1,65 @@
+fake news - misleading and false facts - word say otherwise - distorted signals uncorrelated with the truth
+rely on social media for information
+
+lack of security measures in online article making: easy to create but hard to detect
+(sentence thought contruction and representation thru trees and forests)
+
+factors
+1. unreliable, unverified source, bluffs AND
+2. difference in content
+
+how they combat?
+1. fact check PH (group of citizens classifying)
+
+fake news kasi 'the verb you used is different compared to other news articles'
+
+how to combat trolls??? <50% trolls
+di ka pwede magadd ng isa pang troll
+
+they work in 'cells': 1 troll, 5000 friends
+spread of fake news has exponential growth
+this is fucking state funded
+
+
+classification of fake source, content and hate comments
+
+
+
+
+
+dapat may quotation
+concise and precise
+third person perspective, don't try to inject own opinion
+question mark no
+look: bawal
+at least three sources dapat
+
+https://cf-particle-html.eip.telegraph.co.uk/a265583e-3d00-479d-9b0b-e5364eb7ae8e.html
+
+statement fact formula
+
+TROLLBATO.COM
+problem: we can't stop trolls from pursuing their objectives but we can 'flag' them, identify them immediately and prevent interacting with them
+
+solution: a browser plugin that tags people beside their name if they are troll like based on their fb activity. its like putting a stigma on trolls spreading fake news.
+
+also a website that displays detailed report on a user's troll-like
+
+
+
+
+similarity of words between articles
+time and date of posting
+use of strong positive / negative words
+use of 'I'
+use of big words/typography in layouts, or layout problems in general
+use of invalid and misleading hyperlinks
+domain of link if it is from a fake news site
+headline
+
+classification: neutral, suspicious, verified
+
+dimensions:
+which articles came from the same website
+which articles are similar in content and choice of words given a particular topic
+which articles refers to credible links
