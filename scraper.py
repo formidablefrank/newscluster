@@ -96,9 +96,9 @@ class BrickSetSpider(scrapy.Spider):
         art = Article(metadata, links2, words, src, domain, datepub, headline)
         articles.append(art)
 
-    def closed(self, reason):
-        with open('data.pickle', 'wb') as f:
-            pickle.dump(articles, f, pickle.HIGHEST_PROTOCOL)
+    # def closed(self, reason):
+    #     with open('data.pickle', 'wb') as f:
+    #         pickle.dump(articles, f, pickle.HIGHEST_PROTOCOL)
 
 
 class Article:
@@ -147,8 +147,10 @@ class Article:
             print('WORD CHOICE - use of "i" pronoun')
         print('INDIVIDUAL ANALYSIS COMPLETE')
 
-if __name__ == '__main__':
-    with open('data.pickle', 'rb') as f:
-        articles = pickle.load(f)
-
-    art = articles[0]
+    def __str__(self):
+        return self.headline
+# if __name__ == '__main__':
+#     with open('data.pickle', 'rb') as f:
+#         articles = pickle.load(f)
+#
+#     art = articles[0]
