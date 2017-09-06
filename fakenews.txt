@@ -63,3 +63,5 @@ dimensions:
 which articles came from the same website
 which articles are similar in content and choice of words given a particular topic
 which articles refers to credible links
+which articles are close to each other (in thought)
+which articles properly describes a caption and does not recycle assets

@@ -19,3 +19,5 @@ $ > cd InternalHackathon
 $ > python manage.py runserver
 ```
 4. Then go to [http://localhost:8000](http://localhost:8000)
+
+5. Might need to change API key in views.py
